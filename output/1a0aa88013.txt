@@ -1,0 +1,1 @@
+\operatorname { t a n h } ( \sqrt { - \lambda } R _ { s t a t i a l } ) = \frac { \sqrt { - \lambda } ( \rho _ { 1 } + \rho _ { 2 } ) } { - \lambda + \rho _ { 1 } \rho _ { 2 } } ,

@@ -1,0 +1,1 @@
+\Psi = \operatorname { e x p } \left ( i l \varphi \right ) R \left ( \rho \right ) .

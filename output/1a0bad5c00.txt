@@ -1,0 +1,1 @@
+{ \cal Z } ^ { p F } ( x _ { 1 } , x _ { 2 } ; p ) = { \cal Z } ^ { p F } ( x _ { 1 } ; p ) { \cal Z } ^ { p F } ( x _ { 2 } ; p ) + x _ { 1 } \cdot x _ { 2 } \, { \cal Z } ^ { p F } ( x _ { 1 } , x _ { 2 } ; p - 2 ) ,

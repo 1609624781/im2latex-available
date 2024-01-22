@@ -1,0 +1,1 @@
+K _ { \alpha } ^ { M } \frac { \partial } { \partial z _ { M } } = \frac { \partial } { \partial \psi _ { \alpha } }

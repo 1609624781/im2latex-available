@@ -1,0 +1,1 @@
+Q ^ { a } = \pm \frac { 2 i } { g } \, \Gamma _ { 3 } ^ { a } .

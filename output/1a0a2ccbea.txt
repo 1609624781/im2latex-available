@@ -1,0 +1,1 @@
+\tilde { \Phi } _ { \mathrm { t a r } } ^ { \prime \prime } + \frac { 3 } { r } \bar { \Phi } _ { \mathrm { t a r } } ^ { \prime } - \frac { \Lambda } { r ^ { 2 } } \bar { \Phi } _ { \mathrm { t e r } } = 0 .

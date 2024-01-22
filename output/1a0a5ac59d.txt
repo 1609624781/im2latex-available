@@ -1,0 +1,1 @@
+V ( y ) = 2 \left [ A ^ { \prime \prime } + 2 ( A ^ { \prime } ) ^ { 2 } + \frac { 1 } { 2 } m _ { n } ^ { 2 } e ^ { - 2 A } \right ] .

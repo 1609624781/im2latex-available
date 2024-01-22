@@ -1,0 +1,1 @@
+\partial _ { \bar { z } } ^ { 2 } H _ { F } + H _ { p } \partial _ { \underline { { p } } } ^ { 2 } H _ { F } = 0 , \quad \partial _ { \vec { z } } ^ { 2 } H _ { p } = 0 .

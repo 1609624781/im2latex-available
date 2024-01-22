@@ -1,0 +1,1 @@
+\mu ( \infty , \gamma , n ) = \frac { \sqrt { 3 } - \frac { \pi } { 2 } e ^ { - \frac { 4 } { 3 } n } } { \sqrt { 1 + \gamma ^ { 2 } } } \ .

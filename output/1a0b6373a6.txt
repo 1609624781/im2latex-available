@@ -1,0 +1,1 @@
+\left [ \frac { d ^ { 2 } } { d \alpha ^ { 2 } } + h _ { 1 } - \frac { \lambda / m ^ { 2 } } { a - \operatorname { c o s h } ^ { 2 } \alpha } \right ] f ( \alpha ) = 0 ;
